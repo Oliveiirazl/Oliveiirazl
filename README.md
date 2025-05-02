@@ -27,7 +27,7 @@
 
 ## 🐍 Cobra das Contribuições
 
-![Snake animation](https://github.com/Oliveiirazl/Oliveiirazl/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Oliveiirazl/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
