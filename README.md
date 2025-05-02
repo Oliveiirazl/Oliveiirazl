@@ -1,73 +1,61 @@
-<!-- Banner animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Olá%20👋%20Eu%20sou%20Lucas&fontSize=40&fontColor=ffffff&animation=twinkling"/>
-
-<h2 align="center">🚀 Estudante de Ciência da Computação | Desenvolvedor Java 💻</h2>
+<h1 align="center">Lucas Oliveira 👨‍💻</h1>
+<h3 align="center">Estudante de Ciência da Computação | Desenvolvedor Back-end Java</h3>
 
 ---
 
-## 🌟 Sobre mim
+## 📚 Sobre Mim
 
-- 🎓 Cursando **Ciência da Computação** e formado em **Desenvolvimento de Sistemas** pela ETEC.
-- 🛠️ Estudando e trabalhando com **Java** e suas principais **frameworks**.
-- 🌱 Sempre buscando integrar novas tecnologias no dia a dia!
-- 🎯 Foco no **Back-End**, mas com planos para ser **FullStack**.
+- 🎓 18 anos | Cursando **Ciência da Computação**.
+- 📜 Formação técnica pela **ETEC** em **Desenvolvimento de Sistemas**.
+- 💻 Atualmente focado em **Java** e suas principais **frameworks**.
+- 🌱 Buscando integrar novas tecnologias no cotidiano e evoluir como desenvolvedor **FullStack**.
+- 🎯 Comprometido em entregar **soluções práticas e inovadoras**.
 
 ---
 
-## 🌎 Redes Sociais
+## 🌐 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://github.com/Oliveiirazl" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/seu-linkedin-aqui/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📊 Estatísticas GitHub
+## ⚙️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Oliveiirazl&show_icons=true&theme=blueberry&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveiirazl&layout=compact&theme=blueberry&hide_border=true" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
 </p>
 
 ---
 
-## 📈 Gráfico de Contribuições
+## 📈 GitHub Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oliveiirazl&theme=blueberry&hide_border=true" />
-</p>
-
----
-
-## 💻 Linguagens e Ferramentas que Uso
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="git" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oliveiirazl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveiirazl&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
-## 🎯 Projetos Desafiadores
+## 🐍 Snake de Contribuições
 
-| Projeto | Descrição |
-|:------|:----------|
-| [**NomeDoProjeto1**](https://github.com/Oliveiirazl/Projeto1) | 🛠️ Projeto feito para aprendizado e prática. |
-| [**NomeDoProjeto2**](https://github.com/Oliveiirazl/Projeto2) | 🚀 Projeto focado em integrações e tecnologias modernas. |
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Oliveiirazl/Oliveiirazl/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
 
 ---
 
-<h3 align="center">✨ Obrigado pela visita! ✨</h3>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
 </p>
