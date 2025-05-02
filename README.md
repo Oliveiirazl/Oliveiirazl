@@ -1,7 +1,14 @@
-<h1 align="center">Lucas Oliveira 👨‍💻</h1>
-<h3 align="center">Estudante de Ciência da Computação | Desenvolvedor Back-end Java</h3>
+# Olá, me chamo Lucas ! 
+## Bem vindo ao meu perfil GitHub 👋
+<h3 align="center">Estudante de Ciência da Computação | Desenvolvedor Back-end </h3>
 
----
+
+<div>
+<a href="https://github.com/Oliveiiraz">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Oliveiirazl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveiirazl&layout=compact&langs_count=7&theme=tokyonight"/>
+</a>
+</div>
 
 ## 📚 Sobre Mim
 
@@ -11,51 +18,23 @@
 - 🌱 Buscando integrar novas tecnologias no cotidiano e evoluir como desenvolvedor **FullStack**.
 - 🎯 Comprometido em entregar **soluções práticas e inovadoras**.
 
----
-
-## 🌐 Contato
-
-<p align="center">
-  <a href="https://github.com/Oliveiirazl" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## ⚙️ Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+<p align="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
 </p>
 
----
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
-## 📈 GitHub Estatísticas
+## 📚 Contate-me
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oliveiirazl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveiirazl&layout=compact&theme=tokyonight&hide_border=true"/>
+<div>
+<a href="https://www.instagram.com/oliveiira.zl/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "lo8304179@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
----
-
-## 🐍 Snake de Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Oliveiirazl/Oliveiirazl/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
-</p>
