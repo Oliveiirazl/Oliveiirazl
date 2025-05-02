@@ -19,15 +19,15 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=blueberry"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveiirazl&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oliveiirazl&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
 
 ## 🐍 Cobra das Contribuições
 
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Oliveiirazl/Oliveiirazl/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
