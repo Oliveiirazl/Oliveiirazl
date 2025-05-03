@@ -1,34 +1,22 @@
-name: Generate Datas
+name: Generate Snake Animation 🐍
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Executa a cada 12 horas
+    # Gera a cada 24 horas
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Jobs to update datas
+  generate:
     runs-on: ubuntu-latest
     steps:
-      # Configurar Git para poder fazer push
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Git
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      # Gerar animação da cobra
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: Oliveiirazl
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      # Publicar a animação no GitHub Pages
-      - name: Deploy GitHub Pages
+      - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
