@@ -39,14 +39,6 @@
 
 ---
 
-## 🐍 Snake Contributions
-
-<p align="center">
- <img src="https://github.com/Oliveiirazl/Oliveiirazl/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oliveiirazl&bg_color=0d1117&color=00aaff&line=0077cc&point=1f6feb&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
  ---
