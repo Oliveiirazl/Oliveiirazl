@@ -42,7 +42,7 @@
 ## 🐍 Snake Contributions
 
 <p align="center">
- <img alt="snake animation" src="https://raw.githubusercontent.com/Oliveiirazl/Oliveiirazl/output/github-contribution-grid-snake.svg" />
+ <img src="https://github.com/Oliveiirazl/Oliveiirazl/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
