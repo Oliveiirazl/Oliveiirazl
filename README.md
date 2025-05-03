@@ -28,13 +28,18 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oliveiirazl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveiirazl&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oliveiirazl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveiirazl&layout=compact&langs_count=7&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
 ---
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oliveiirazl&bg_color=0d1117&color=00aaff&line=0077cc&point=1f6feb&area=true&hide_border=true" alt="GitHub Activity Graph" />
