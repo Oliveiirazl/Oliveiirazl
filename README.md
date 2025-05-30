@@ -2,12 +2,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0c3c,100:220066&height=180&section=header&text=Bem%20Vindo!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
 <h1 align="center">Olá, me chamo Lucas!</h1>
-<h3 align="center">💻 Estudante de Ciência da Computação | Desenvolvedor Back-end</h3>
+<h3 align="center">💻 Engenheiro de Software | Desenvolvedor Back-end</h3>
 
 ---
 
 ## ✨ Sobre Mim
-- 🎓 18 anos | Estudante de **Ciência da Computação**.
+- 🎓 18 anos | Engenheiro de **Software**.
 - 📜 Técnico em **Desenvolvimento de Sistemas** pela **ETEC**.
 - 💻 Atualmente focado em **Java** e **Spring Boot**.
 - 🌱 Buscando crescer como desenvolvedor **FullStack**.
